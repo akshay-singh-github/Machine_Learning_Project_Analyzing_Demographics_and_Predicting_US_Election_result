@@ -1,0 +1,12 @@
+FEATURE SET 1 :
+===============
+[['X','POP010210','age65plus','AGE135214','VET605213','AGE295214','winner_16']]
+
+FEATURE SET 2 :
+===============
+[['POP010210','age65plus','SEX255214','White','Black','Edu_highschool','Edu_batchelors','Hispanic','INC110213','Poverty','winner_16']]
+
+FEATURE SET 3 :
+===============
+[['votes_dem_2012','votes_gop_2012','NonEnglish','POP645213','Edu_highschool','Edu_batchelors',
+'RHI425214','SEX255214', 'White', 'Black','VET605213', 'Hispanic','Poverty', 'Income','winner_16' ]]
